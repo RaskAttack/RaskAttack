@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaskAttack
-- 👀 I’m interested in ... Coading?
-- 🌱 I’m currently learning ... Coading...
+- 👀 I’m interested in ... Swift
+- 🌱 I’m currently learning ... Swift, emojicode, HTML/CSS/JS
 - 💞️ I’m not looking to collaborate on anything.
 
 <!---
