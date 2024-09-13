@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaskAttack
-- 👀 I’m interested in ... Swift
-- 🌱 I’m currently learning ... Swift, emojicode, HTML/CSS/JS
+- 👀 I’m interested in ... Godot
+- 🌱 I’m currently learning ... Godot
 - 💞️ I’m not looking to collaborate on anything.
 
 <!---
